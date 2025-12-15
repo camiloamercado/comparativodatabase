@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Compare Excel databases to track project changes",
   "private": true,
-  "homepage": "https://tu-usuario.github.io/project-db-comparison",
+  "homepage": "https://camiloamercado.github.io/comparativodatabase",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -39,4 +39,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
+
 }
